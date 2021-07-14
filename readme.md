@@ -51,5 +51,19 @@ pouco de ***Markdown***
 ## Veja o resultado do estudo Markdown
 ![Tela do VSCode](Print.PNG)
 
+### Tarefas 
 
+- [X] Montar o computador
+- [X] Formatar o computador
+- [X] Preparar o pen drive de boot 
+- [] Instalar o sistema operacional
+- [] Verificar a instalação dos drivers
     
+### Sistema e Empresas 
+
+Empresa | Sistemas | Versao
+--------|----------|--------
+Microsoft|Windows  | 11
+Apple  | MacOS  | 10.14
+Ubuntu | Focal | 2004
+RedHat | Enterprise | 8
