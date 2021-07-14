@@ -74,3 +74,5 @@ RedHat | Enterprise | 8
 JQuery|Python|NodeJS|React
 ------|------|------|------
 ![](img1.jpg)|![](img2.png)|![](img3.png)|![](img4.png) 
+Java| Mysql| PostgreSQP | MongoDB
+![](img5.png)|![](img6.png)|![](img7.png)|![](img8.png)
