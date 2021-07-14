@@ -1,4 +1,11 @@
-Estou escrevendo minha **documentação** para estudar em *itálico* um pouco de ***Markdown*** 
+# Nosso projeto com documentação
+
+![ESTUDO](https://img.shields.io/badge/estudo-markdown-green)
+![](https://img.shields.io/badge/vers%C3%A3o-1.0.0.1-orange)
+![](https://img.shields.io/github/watchers/fernandomiranda/esrudomarkdown?label=fernando&logoColor=blue&style=social)
+
+ escrevendo minha **documentação** para estudar em *itálico* um 
+pouco de ***Markdown*** 
 
 # Título do projeto
 ## Estudo do projeto
