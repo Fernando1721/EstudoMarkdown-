@@ -38,4 +38,10 @@ Estou escrevendo minha **documentação** para estudar em *itálico* um pouco de
 
 ## Veja a tela gerada com o códico acima
 ![Tela do meu computador](https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
+
+
+## Veja o resultado do estudo Markdown
+![Tela do VSCode](Print.PNG)
+
+
     
