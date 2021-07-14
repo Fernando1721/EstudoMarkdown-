@@ -67,3 +67,10 @@ Microsoft|Windows  | 11
 Apple  | MacOS  | 10.14
 Ubuntu | Focal | 2004
 RedHat | Enterprise | 8
+
+
+### Application and Data (Aplicação e data) 
+
+JQuery|Python|NodeJS|React
+------|------|------|------
+![](img1.jpg)|![](img2.png)|![](img3.png)|![](img4.png) 
